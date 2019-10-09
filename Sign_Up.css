@@ -1,0 +1,43 @@
+nav, footer {
+	clear: both;
+	color: black;  
+	height: 30px;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+	background-color: pink;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: black;}
+nav li a:hover, nav li a.current {
+	color: white;}
+
+.kotak_login{
+	width: 20%;
+	background:pink;
+	border: none;
+	margin bottom: 20%;
+	margin-top: 1%;
+	margin-right: 38%;
+	margin-left: 38%;
+	padding: 2% 2%;
+}
+.Form_login{
+	width: 100%;
+	height: auto;
+	font-size: 12pt;
+	margin-bottom: 20px;
+	padding: 1%;
+	color: black;
+}
+.button_login{
+	text-align: center;
+	font-size: 18pt;
+}
+
