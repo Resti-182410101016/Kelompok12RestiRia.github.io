@@ -1,0 +1,19 @@
+nav, footer {
+	clear: both;
+	color: black;  
+	height: 30px;
+}
+
+nav ul {
+	margin: 0px;
+	padding: 5px 0px 5px 30px;
+	background-color: pink;
+}
+nav li {
+	display: inline;
+	margin-right: 40px;
+}
+nav li a {
+	color: black;}
+nav li a:hover, nav li a.current {
+	color: white;}
